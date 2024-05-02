@@ -2,7 +2,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">AristiDevs</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="![portada](https://github.com/RodrigoFernandez1/RodrigoFernandez1/assets/128515532/60f45ba3-e6f5-41c2-bdd8-72b1a9be528c)
+">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
