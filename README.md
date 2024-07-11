@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://rodrigofernandez.vercel.app/">Rodrigo Fernandez</a> 👋</h1>
 </div>
 
-<img src="./github-header-image.png">
+<img src="./github-header-image.png" width="100%">
 
 
 <h2>Sobre mi</h2>
