@@ -1,11 +1,10 @@
 <div align="center">
-<h1 align="center" >Hola, soy <a href="https://rodrigofernandez.vercel.app/">Rodrigo Fernandez</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://rodrigofernandez.vercel.app/">Rodrigo Fernandez</a> 👋</h1>
 </div>
-<img src="./img/github-header-image.png" alt="portada" >
+
+<img src="./github-header-image.png" width="100%">
 
 
 <h2>Sobre mi</h2>
-- 🖥️ Front-end developer ⌨️
 - ✍️ Diseño / ⌨️ Desarrollo
-- 🌐 Moderno /▪️◾◼️🔳📲Responsive
-
+- 🌐 Moderno /responsive Desing ▪️◾◼️🔳📲/ UX/UI
